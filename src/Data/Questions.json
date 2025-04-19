@@ -1,0 +1,222 @@
+[
+	{
+		"id": 1,
+		"question": "What is the SI unit of force?",
+		"options": [
+			"Newton",
+			"Joule",
+			"Watt",
+			"Pascal"
+		],
+		"answer": "Newton"
+	},
+	{
+		"id": 2,
+		"question": "Which gas do plants absorb during photosynthesis?",
+		"options": [
+			"Oxygen",
+			"Carbon Dioxide",
+			"Nitrogen",
+			"Hydrogen"
+		],
+		"answer": "Carbon Dioxide"
+	},
+	{
+		"id": 3,
+		"question": "Which planet is known as the Red Planet?",
+		"options": [
+			"Earth",
+			"Mars",
+			"Jupiter",
+			"Venus"
+		],
+		"answer": "Mars"
+	},
+	{
+		"id": 4,
+		"question": "What is the chemical symbol for gold?",
+		"options": [
+			"Au",
+			"Ag",
+			"Gd",
+			"Go"
+		],
+		"answer": "Au"
+	},
+	{
+		"id": 5,
+		"question": "What does DNA stand for?",
+		"options": [
+			"Deoxyribonucleic Acid",
+			"Dinucleic Acid",
+			"Dextroribonucleic Acid",
+			"Deoxynucleic Agent"
+		],
+		"answer": "Deoxyribonucleic Acid"
+	},
+	{
+		"id": 6,
+		"question": "How many legs does a spider have?",
+		"options": [
+			"6",
+			"8",
+			"10",
+			"12"
+		],
+		"answer": "8"
+	},
+	{
+		"id": 7,
+		"question": "Which part of the cell contains the genetic material?",
+		"options": [
+			"Mitochondria",
+			"Ribosome",
+			"Nucleus",
+			"Cytoplasm"
+		],
+		"answer": "Nucleus"
+	},
+	{
+		"id": 8,
+		"question": "What is the powerhouse of the cell?",
+		"options": [
+			"Nucleus",
+			"Mitochondria",
+			"Ribosome",
+			"Chloroplast"
+		],
+		"answer": "Mitochondria"
+	},
+	{
+		"id": 9,
+		"question": "Which organ pumps blood throughout the human body?",
+		"options": [
+			"Lungs",
+			"Liver",
+			"Heart",
+			"Brain"
+		],
+		"answer": "Heart"
+	},
+	{
+		"id": 10,
+		"question": "Which gas is most abundant in Earth’s atmosphere?",
+		"options": [
+			"Oxygen",
+			"Carbon Dioxide",
+			"Nitrogen",
+			"Helium"
+		],
+		"answer": "Nitrogen"
+	},
+	{
+		"id": 11,
+		"question": "What is H₂O commonly known as?",
+		"options": [
+			"Hydrogen Peroxide",
+			"Oxygen",
+			"Salt",
+			"Water"
+		],
+		"answer": "Water"
+	},
+	{
+		"id": 12,
+		"question": "What is the boiling point of water in Celsius?",
+		"options": [
+			"90°C",
+			"95°C",
+			"100°C",
+			"110°C"
+		],
+		"answer": "100°C"
+	},
+	{
+		"id": 13,
+		"question": "How many planets are in our solar system?",
+		"options": [
+			"7",
+			"8",
+			"9",
+			"10"
+		],
+		"answer": "8"
+	},
+	{
+		"id": 14,
+		"question": "What is the largest planet in our solar system?",
+		"options": [
+			"Saturn",
+			"Earth",
+			"Neptune",
+			"Jupiter"
+		],
+		"answer": "Jupiter"
+	},
+	{
+		"id": 15,
+		"question": "Which of these is not a state of matter?",
+		"options": [
+			"Solid",
+			"Liquid",
+			"Gas",
+			"Smoke"
+		],
+		"answer": "Smoke"
+	},
+	{
+		"id": 16,
+		"question": "What type of energy is stored in a stretched rubber band?",
+		"options": [
+			"Kinetic",
+			"Thermal",
+			"Potential",
+			"Sound"
+		],
+		"answer": "Potential"
+	},
+	{
+		"id": 17,
+		"question": "What is the chemical symbol for Sodium?",
+		"options": [
+			"So",
+			"Na",
+			"S",
+			"Sn"
+		],
+		"answer": "Na"
+	},
+	{
+		"id": 18,
+		"question": "Which blood cells help our body fight infections?",
+		"options": [
+			"Red blood cells",
+			"Platelets",
+			"White blood cells",
+			"Plasma"
+		],
+		"answer": "White blood cells"
+	},
+	{
+		"id": 19,
+		"question": "What is the primary source of energy for Earth?",
+		"options": [
+			"The Moon",
+			"Volcanoes",
+			"The Sun",
+			"Wind"
+		],
+		"answer": "The Sun"
+	},
+	{
+		"id": 20,
+		"question": "Which instrument is used to measure temperature?",
+		"options": [
+			"Barometer",
+			"Thermometer",
+			"Seismograph",
+			"Anemometer"
+		],
+		"answer": "Thermometer"
+	}
+]
