@@ -1,7 +1,3 @@
-Here’s a **comprehensive README** for your quiz project, which includes details about setup, features, structure, and a polished description. Feel free to tweak or expand based on any specific requirements!
-
----
-
 # Quiz App
 
 A simple and interactive quiz app that tests users' knowledge across STEM topics, featuring a timer, progress bar, and personalized results. The app includes multiple-choice questions and evaluates user performance with real-time feedback and the option to retake the quiz.
@@ -148,11 +144,6 @@ If you would like to contribute, please follow these steps:
 
 ---
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
