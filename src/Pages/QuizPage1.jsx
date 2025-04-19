@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import questionsData from "../data/questions.json";
+import questionsData from "../Data/Questions.json";
 import QuizQuestion from "../Components/QuestionCard";
 import { useNavigate } from "react-router-dom";
 import { toast, ToastContainer } from "react-toastify";

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import questionsData from "../data/questions.json";
+import questionsData from "../Data/Questions.json";
 import QuizQuestion from "../Components/QuestionCard"; // Reusing QuizQuestion component
 import { toast, ToastContainer } from "react-toastify"; // Import the toast function
 import "react-toastify/dist/ReactToastify.css"; // Import the CSS for Toast
